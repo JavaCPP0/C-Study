@@ -9,7 +9,7 @@
 	int val2;
 	std::cout << "2번째 정수 입력: ";
 	std::cin >> val2;
-
+	
 	int val3;
 	std::cout << "3번째 정수 입력: ";
 	std::cin >> val3;
