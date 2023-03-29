@@ -11,6 +11,7 @@ int main(void)
 	cout << "[3, 3, 3] : " << BoxVolume(3, 3, 3) << endl;
 	cout << "[5, 5, D] : " << BoxVolume(5,5) << endl;
 	cout << "[7, D, D] : " << BoxVolume(7) << endl;
+	CommitCheck();
 	//cout << "[D, D, D] : " << BoxVolume() << endl;
 
 }
@@ -28,4 +29,9 @@ int BoxVolume(int i, int w)
 int BoxVolume(int i)
 {
 	return i * 1 * 1;
+}
+
+void CommitCheck()
+{
+	cout << "Ä¿¹ÔÈ®ÀÎ";
 }
