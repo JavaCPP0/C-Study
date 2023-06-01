@@ -24,5 +24,8 @@
     <ClCompile Include="문제1-3매개변수의 디폴트 값.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="문제2-1참조자Call-by-reference.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
