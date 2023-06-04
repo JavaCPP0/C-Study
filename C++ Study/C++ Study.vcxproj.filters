@@ -42,5 +42,11 @@
     <ClCompile Include="문제2-1참조자Call-by-reference.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="문제2-2 const 포인터와 const참조자.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문제2-3 구조체에 대한 new &amp; delete 연산.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
